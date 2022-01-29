@@ -2,10 +2,11 @@
     margin: 0px;
     box-sizing: border-box;
     padding: 0px;
+    position: relative;
 }
 
 body {
-    width: 1400px;
+    width: 1500px;
     height: 6089px;
     background: #FFFFFF;
 
