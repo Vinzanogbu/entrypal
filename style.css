@@ -1,6 +1,5 @@
 * {
     margin: 0px;
-    box-sizing: border-box;
     padding: 0px;
 }
 
@@ -9,8 +8,6 @@ body {
     position: relative;
     height: 7089px;
     width: 1440px;
-    right: 0px;
-    border-radius: 0px;
 }
 
 header {
