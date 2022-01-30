@@ -17,6 +17,7 @@ body {
     height: 1366px;
     width: 768px;
     position: relative;
+    font-size: 17px;
 }
 
 header {
@@ -629,7 +630,7 @@ input[type=text2] {
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 30px;
     text-align: justify;
     color: #A89C9C;
@@ -677,7 +678,7 @@ input[type=text2] {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 23px;
+    font-size: 17px;
     line-height: 34px;
     color: #24285B;
 }
