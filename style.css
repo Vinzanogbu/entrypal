@@ -356,19 +356,16 @@ input[type=text2] {
     position: absolute;
     width: 806.67px;
     height: 678.36px;
-    left: -13px;
+    left: -80px;
     top: 1800px;
     transform: rotate(-3.53deg);
 }
 .vector {
     position: absolute;
-    left: 12.78%;
-    right: 59.31%;
-    top: 30.33%;
     bottom: 63.18%;
     height: 389px;
     width: 402px;
-    left: 184px;
+    left: 124px;
     top: 2100px;
     border-radius: 0px;
 }
