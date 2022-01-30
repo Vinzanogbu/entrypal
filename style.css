@@ -4,6 +4,14 @@
     padding: 0px;
 }
 
+.nav-bar {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
+    align-items: center;
+}
+
 body {
     background: #FFFFFF;
     height: 1366px;
@@ -17,6 +25,16 @@ header {
     margin: auto;
     height: 15vh;
     align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .nav-bar {
+        flex-direction: column;
+    }
+    .row {
+        margin-top: 5vh;
+        text-align: center;
+    }
 }
 
 
@@ -655,11 +673,25 @@ input[type=text2] {
     width: 289px;
     height: 77px;
     left: 139px;
-    top: 4472px;
+    top: 4372px;
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
     font-size: 23px;
     line-height: 34px;
     color: #24285B;
+}
+.paragraph11 {
+    position: absolute;
+width: 334px;
+height: 154px;
+left: 117px;
+top: 4430px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+text-align: justify;
+color: #A89C9C;
 }
