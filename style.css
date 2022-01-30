@@ -17,7 +17,6 @@ body {
     height: 1366px;
     width: 768px;
     position: relative;
-    font-size: 17px;
 }
 
 header {
@@ -61,21 +60,20 @@ nav {
     background: #072D6B;
     border-radius: 8px;
     height: 60px;
-    font-size: 20px;
+    font-size: 13px;
     font-family: Poppins;
     font-weight: 500;
     top: -119px;
 }
 
 .nav-link {
-    font-size: 17px;
+    font-size: 13px;
     list-style: none;
     color: blue;
     text-decoration: none;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 25px;
     color: #24285B;
     padding: 12px 14px;
     left: -73px;
@@ -99,7 +97,7 @@ nav {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 13px;
     line-height: 52px;
     color: #24285B;
 }
@@ -121,7 +119,7 @@ nav {
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 13px;
     line-height: 30px;
     text-align: justify;
     color: #A89C9C;
@@ -150,7 +148,7 @@ nav {
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
-    font-size: 23px;
+    font-size: 13px;
     line-height: 34px;
     color: #24285B;
 }
