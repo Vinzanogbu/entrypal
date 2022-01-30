@@ -1,20 +1,21 @@
 * {
     margin: 0px;
+    box-sizing: border-box;
     padding: 0px;
 }
 
 body {
     background: #FFFFFF;
+    height: 1366px;
+    width: 768px;
     position: relative;
-    height: 7089px;
-    width: 1440px;
 }
 
 header {
     display: flex;
     width: 90%;
     margin: auto;
-    height: 10vh;
+    height: 15vh;
     align-items: center;
 }
 
@@ -26,9 +27,9 @@ header {
 
 .logo {
     width: 329px;
-    height: 120px;
-    left: -13px;
-    top: 25px;
+    height: 110px;
+    left: -130px;
+    top: 50px;
 }
 
 nav {
@@ -44,7 +45,7 @@ nav {
     font-size: 20px;
     font-family: Poppins;
     font-weight: 500;
-    top: -10px;
+    top: -119px;
 }
 
 .nav-link {
@@ -58,8 +59,8 @@ nav {
     font-size: 25px;
     color: #24285B;
     padding: 12px 14px;
-    left: 72px;
-    top: 40px;
+    left: -73px;
+    top: 140px;
 }
 
 .nav-links {
@@ -86,7 +87,7 @@ nav {
 
 .img {
     position: absolute;
-    right: -2.31%;
+    right: -94.91%;
     top: -120px;
     bottom: 7.81%;
     flex: 70%;
