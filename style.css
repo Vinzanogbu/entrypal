@@ -130,9 +130,9 @@ left: 78px;
 top: 171px;
 font-family: Poppins;
 font-style: normal;
-font-weight: 800;
-font-size: 35px;
-line-height: 42px;
+font-weight: 900;
+font-size: 36px;
+line-height: 55px;
 color: #24285B;
 }
 
@@ -150,7 +150,7 @@ color: #24285B;
     width: 590px;
     height: 156px;
     left: 78px;
-    top: 325px;
+    top: 375px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 430;
@@ -172,7 +172,7 @@ color: #24285B;
     border-radius: 16px;
     margin: -200px 59px;
     position: absolute;
-    top: 700px;
+    top: 730px;
 }
 
 .heading4 {
