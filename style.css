@@ -264,8 +264,8 @@ color: #24285B;
     top: 900px;
     font-family: Poppins;
     font-style: normal;
-    font-weight: bold;
-    font-size: 25px;
+    font-weight: 900;
+    font-size: 32px;
     line-height: 45px;
     color: #24285B;
 }
@@ -285,8 +285,8 @@ input[type=text] {
 
 input[type=submit] {  
     position: absolute;
-    width: 423px;
-    height: 91px;
+    width: 290px;
+    height: 71px;
     left: 857px;
     top: 1233px;
     background: #072D6B;
@@ -294,7 +294,7 @@ input[type=submit] {
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 39px;
     color: #FFFFFF;
 }
