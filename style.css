@@ -44,10 +44,11 @@ header {
 }
 
 .logo {
+    position: absolute;
     width: 329px;
-    height: 110px;
-    left: -130px;
-    top: 50px;
+    height: 123px;
+    left: 44px;
+    top: -10px;
 }
 
 nav {
@@ -55,34 +56,67 @@ nav {
 }
 
 .btn {
-    width: 324px;
-    color: white;
     background: #072D6B;
     border-radius: 8px;
-    height: 60px;
-    font-size: 13px;
+    position: absolute;
+    width: 284px;
+    height: 75px;
+    left: 1200px;
+    top: 35px;
     font-family: Poppins;
-    font-weight: 500;
-    top: -119px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
 }
 
-.nav-link {
-    font-size: 13px;
-    list-style: none;
-    color: blue;
-    text-decoration: none;
+.home {
+    position: absolute;
+    width: 75px;
+    height: 38px;
+    left: 650px;
+    top: 50px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
+    font-size: 25px;
+    line-height: 37px;
     color: #24285B;
-    padding: 12px 14px;
-    left: -73px;
-    top: 140px;
+    text-decoration: none;
+}
+.about {
+    position: absolute;
+width: 113px;
+height: 38px;
+left: 797px;
+top: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 37px;
+color: rgba(36, 40, 91, 0.7);
+text-decoration: none;
 }
 
+.contact {
+    position: absolute;
+width: 103px;
+height: 38px;
+left: 999px;
+top: 50px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 37px;
+color: rgba(36, 40, 91, 0.7);
+text-decoration: none;
+}
 .nav-links {
     justify-content: space-around;
-    list-style: none;
+    text-decoration: none;
     display: flex;
     padding: 12px 14px;
     margin: 12px 14px;
@@ -90,26 +124,25 @@ nav {
 
 .content {
     position: absolute;
-    width: 704px;
-    height: 190px;
-    left: 78px;
-    top: 100px;
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 35px;
-    line-height: 52px;
-    color: #24285B;
+width: 704px;
+height: 190px;
+left: 78px;
+top: 141px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 52px;
+color: #24285B;
 }
 
 .img {
     position: absolute;
-    right: -74.91%;
-    top: -120px;
-    bottom: 7.81%;
-    flex: 60%;
-    height: 760px;
-    width: 649px;
+    width: 815.98px;
+    height: 906.24px;
+    left: 682.51px;
+    top: -50.84px;
+    
 }
 
 .heading3 {
@@ -117,14 +150,15 @@ nav {
     width: 590px;
     height: 156px;
     left: 78px;
-    top: 290px;
+    top: 310px;
     font-family: Poppins;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 500;
     font-size: 20px;
     line-height: 30px;
     text-align: justify;
-    color: #A89C9C;
+    color: #606669;
+    
 }
 
 .rectangle {
@@ -202,7 +236,7 @@ nav {
     width: 98px;
     height: 5px;
     left: 883px;
-    top: 664px;
+    top: 865px;
     background: #C4C4C4;
     border-radius: 5px;
 }
@@ -212,7 +246,7 @@ nav {
     width: 192px;
     height: 42px;
     left: 987px;
-    top: 645px;
+    top: 845px;
     font-family: Poppins;
     font-style: normal;
     font-weight: 500;
@@ -227,7 +261,7 @@ nav {
     width: 402px;
     height: 124px;
     left: 845px;
-    top: 690px;
+    top: 900px;
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
@@ -240,7 +274,7 @@ input[type=text] {
     width: 462px;
     height: 65px;
     left: 850px;
-    top: 930px;
+    top: 1030px;
     background: #DCDDDF;
     border: 0.3px solid #383E42;
     box-sizing: border-box;
@@ -456,7 +490,7 @@ input[type=text2] {
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
     text-align: justify;
     color: #A89C9C;
