@@ -13,7 +13,7 @@
 }
 
 body {
-    background: #FFFFFF;
+    background: #f3f3f3;
     height: 1366px;
     width: 768px;
     position: relative;
@@ -144,6 +144,7 @@ color: #24285B;
     top: -50.84px;
     
 }
+
 
 .rectangle {
     position: absolute;
