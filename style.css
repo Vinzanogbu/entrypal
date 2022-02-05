@@ -59,7 +59,7 @@ nav {
     background: #072D6B;
     border-radius: 8px;
     position: absolute;
-    width: 284px;
+    width: 254px;
     height: 75px;
     left: 1200px;
     top: 35px;
@@ -75,7 +75,7 @@ nav {
     position: absolute;
     width: 75px;
     height: 38px;
-    left: 650px;
+    left: 850px;
     top: 50px;
     font-family: Poppins;
     font-style: normal;
@@ -89,7 +89,7 @@ nav {
     position: absolute;
 width: 113px;
 height: 38px;
-left: 797px;
+left: 957px;
 top: 50px;
 font-family: Poppins;
 font-style: normal;
@@ -104,7 +104,7 @@ text-decoration: none;
     position: absolute;
 width: 103px;
 height: 38px;
-left: 999px;
+left: 1080px;
 top: 50px;
 font-family: Poppins;
 font-style: normal;
